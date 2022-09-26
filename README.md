@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SpiderChung/SpiderChung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![schung's 42 stats](https://badge42.vercel.app/api/v2/cl8ismyaz00440gmg52kwd2g8/stats?cursusId=21&coalitionId=98)](https://github.com/JaeSeoKim/badge42)
