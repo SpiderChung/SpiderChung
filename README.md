@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![schung's 42 stats](https://badge42.vercel.app/api/v2/cl8ismyaz00440gmg52kwd2g8/stats?cursusId=21&coalitionId=98)](https://github.com/JaeSeoKim/badge42)
+[![schung's 42 stats](https://badge42.vercel.app/api/v2/cl8ismyaz00440gmg52kwd2g8/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
