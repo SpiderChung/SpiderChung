@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![schung's 42 stats](https://badge42.vercel.app/api/v2/cl8ismyaz00440gmg52kwd2g8/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
