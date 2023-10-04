@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
