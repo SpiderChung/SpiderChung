@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 [![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&theme=radical&&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&theme=radical&&layout=donut)
 
 ![Visitor Count](https : //profile-counter.glitch.me/SpiderChung/count.svg)
 
