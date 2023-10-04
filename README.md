@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/delay-mc/))
 
 [![schung's 42 stats](https://badge42.vercel.app/api/v2/cl8ismyaz00440gmg52kwd2g8/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
