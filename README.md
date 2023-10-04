@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSpiderChung)](https://github.com/SpiderChung/github-readme-stats)
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
