@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/delay-mc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-[![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical&line_height=29)](https://github.com/anuraghazra/github-readme-stats) 
+[![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical&line_height=28)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=false&theme=radical&layout=donut)
 
 ![Visitor Count](https : //profile-counter.glitch.me/SpiderChung/count.svg)
