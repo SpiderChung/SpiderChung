@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/Delay_mc/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/delay-mc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<--
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung)](https://github.com/anuraghazra/github-readme-stats)
