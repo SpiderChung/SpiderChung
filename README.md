@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/delay-mc/"/>
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/delay-mc/](https://www.linkedin.com/in/delay-mc/)](https://www.linkedin.com/in/delay-mc/))
 
-[![schung's 42 stats](https://badge42.vercel.app/api/v2/cl8ismyaz00440gmg52kwd2g8/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
+[![schung's 42 stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/JaeSeoKim/badge42)
