@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&layout=pie)
 
-![Visitor Count](https : //profile-counter.glitch.me/{SpiderChung}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/SpiderChung/count.svg)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
