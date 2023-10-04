@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/delay-mc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-[![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical&line_height=50)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&layout=pie&line_height=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&layout=pie)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
