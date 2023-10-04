@@ -25,6 +25,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/delay-mc/"/>
 </div>
 
+<div id="badges2" align="center">
+  <a href="https://leetcode.com/Delay_mc/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/delay-mc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
