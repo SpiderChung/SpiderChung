@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=true&layout=pie&line_height=50)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
