@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-##Language and tools
+**Language and tools
 
 <div id="badges" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
           
 <hr>
 
-##My stat
+**My stat
 
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice"/>
