@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   
 </div>
 
+<hr>
+
 <div id="badges" align="center">
   <a href="https://t.me/Delay_mc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://leetcode.com/Delay_mc/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
