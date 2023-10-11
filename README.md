@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+**About me**
+
 - :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
 
 - :seedling: I speak English and Russian.
