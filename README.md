@@ -51,7 +51,7 @@ Here are some ideas to get you started:
           
 <hr>
 
-## My stat
+**My stat**
 
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice"/>
