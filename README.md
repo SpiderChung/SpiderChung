@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+##Language and tools
+
 <div id="badges" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
@@ -47,7 +49,9 @@ Here are some ideas to get you started:
   
 </div>
           
+<hr>
 
+##My stat
 
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice"/>
