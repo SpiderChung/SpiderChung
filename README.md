@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </div>
 
 <div id="stat" align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpiderChung&theme=apprentice)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpiderChung&theme=apprentice)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpiderChung&theme=apprentice"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpiderChung&theme=apprentice"/>
 </div>
 
 
