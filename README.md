@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https : //profile-counter.glitch.me/SpiderChung/count.svg)
 
-- :telescope: I'm currently learning Java in [School 21][https://21-school.ru/]
+- :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
 
 - :seedling: I speak English and Russian.
 
