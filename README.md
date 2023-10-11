@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [![SpiderChung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderChung&show_icons=true&theme=radical&line_height=28)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderChung&hide_progress=false&theme=radical&layout=donut)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpiderChung&theme=apprentice)
 
 
 <div id="badges" align="center">
