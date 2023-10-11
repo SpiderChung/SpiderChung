@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https : //profile-counter.glitch.me/SpiderChung/count.svg)
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm currently learning Java in ![School 21](https://21-school.ru/)
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I speak English and Russian.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
