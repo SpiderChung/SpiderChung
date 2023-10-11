@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-** Language and tools **
+**Language and tools**
 
 <div id="badges" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
