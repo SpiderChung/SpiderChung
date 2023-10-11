@@ -30,15 +30,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/delay-mc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpiderChung&theme=apprentice"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpiderChung&theme=apprentice"/>
-</div>
+- :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
 
+- :seedling: I speak English and Russian.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-
+<hr>
 
 <div id="badges" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
@@ -50,9 +48,15 @@ Here are some ideas to get you started:
 </div>
           
 
-- :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
 
-- :seedling: I speak English and Russian.
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpiderChung&theme=apprentice"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpiderChung&theme=apprentice"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpiderChung&theme=apprentice"/>
+</div>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+
+
+
 
