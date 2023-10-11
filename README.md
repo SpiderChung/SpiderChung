@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<hr>
+
 
 <div id="badges" align="center">
   
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/Delay_mc/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/delay-mc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+<hr>
 
 - :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
 
