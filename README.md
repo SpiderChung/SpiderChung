@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **About me**
 
-- :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
+- :telescope: I'm currently learning Java in [Ecole 42](https://42.fr/en/homepage/) and [School 21](https://21-school.ru/)
 
 - :seedling: I speak English and Russian.
 
