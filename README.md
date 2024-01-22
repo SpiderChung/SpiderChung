@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 </h3>
 
 | Project name      | Description                | Tools   | Subject |
-|:------------------:|:-------------------------------------:|:------------------------:|:---------:|:-----:|
+|:------------------:|:-------------------------------------:|:------------------------:|:---------:|
 |[Libft](https://github.com/SpiderChung/libft/tree/master)|     Implement your own library for work with ```String``` and ```Linked Lists```    | C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
-|[ft_printf](https://github.com/SpiderChung/ft_printf)|         Write a function which behavour is like a ```printf``` function in C      | C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
+|[ft_printf](https://github.com/SpiderChung/ft_printf)|         Write a function which behavour is like a ```printf``` function in C      | C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|
 |[get_next_line](https://github.com/SpiderChung/get_next_line)| Implement the function which read a line from ```file discriptor```|C, Makefile|[Subject](https://github.com/MKKurbandibirov/get_next_line/blob/master/Subject.pdf)|<img width="148" alt="image" src="https://user-images.githubusercontent.com/74917681/191956909-18e5ca8c-615c-434c-8954-36bdf1256d12.png">|
 |[push_swap](https://github.com/SpiderChung/push_swap)| Invent more efficient algorithm for sort ```stack``` with certain operations| C, Makefile|[Subject](https://github.com/MKKurbandibirov/push_swap/blob/master/Subject.pdf)|<img width="147" alt="image" src="https://user-images.githubusercontent.com/74917681/191956984-645802ba-2947-477c-88b9-f8c7000d5be3.png">|
 |[fractol](https://github.com/SpiderChung/fractol)| This project using MiniLibX for drawing fractals: ```Mandelbrot, Julia and Celtic Mandelbrot```| C, MiniLibX, Makefile| [Subject](https://github.com/MKKurbandibirov/Fdf/blob/main/Subject.pdf)|<img width="147" alt="image" src="https://user-images.githubusercontent.com/74917681/191957206-6fd95ffe-81f5-4b04-83d8-1fdd5c770048.png">|
