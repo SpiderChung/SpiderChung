@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   :ballot_box_with_check: Projects I've worked on in School 21(Ecole 42)
 </h3>
 
-| Project name      | Description                | Tools   | Subject | Score|
+| Project name      | Description                | Tools   | Subject |
 |:------------------:|:-------------------------------------:|:------------------------:|:---------:|:-----:|
 |[Libft](https://github.com/SpiderChung/libft/tree/master)|     Implement your own library for work with ```String``` and ```Linked Lists```    | C, Makefile |[Subject](https://github.com/MKKurbandibirov/Libft/blob/master/Subject.pdf)|
 |[ft_printf](https://github.com/SpiderChung/ft_printf)|         Write a function which behavour is like a ```printf``` function in C      | C, Makefile|[Subject](https://github.com/MKKurbandibirov/ft_printf/blob/master/Subject.pdf)|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
