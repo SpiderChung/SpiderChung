@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 | Project name      | Description                | Tools   |
 |:------------------:|:-------------------------------------:|:------------------------:|
-|[OrderManagement](https://github.com/SpiderChung/OrderManagementSystem)|Two MicroServices: OrderNumberGenerator and | Java, Spring Data, Spring Boot, Swagger, Liquibase, Maven |
+|[OrderManagement](https://github.com/SpiderChung/OrderManagementSystem)|Two RestAPI MicroServices: one for generating number of an order and another for requsting order number and creating an order and storing details in DB | Java, Spring Data, Spring Boot, Swagger, Liquibase, Maven |
 
 
 
