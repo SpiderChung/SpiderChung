@@ -66,8 +66,8 @@ Here are some ideas to get you started:
   :ballot_box_with_check: Pet projects
 </h3>
 
-| Project name      | Description                | Tools   | Subject |
-|:------------------:|:-------------------------------------:|:------------------------:|:---------:|
+| Project name      | Description                | Tools   |
+|:------------------:|:-------------------------------------:|:------------------------:|
 |[OrderManagement](https://github.com/SpiderChung/OrderManagementSystem)|Two MicroServices: OrderNumberGenerator and | Java, Spring Data, Spring Boot, Swagger, Liquibase, Maven |
 
 
