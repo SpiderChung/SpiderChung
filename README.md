@@ -68,10 +68,8 @@ Here are some ideas to get you started:
 
 | Project name      | Description                | Tools   | Subject |
 |:------------------:|:-------------------------------------:|:------------------------:|:---------:|
-|[OrderManagement](https://github.com/SpiderChung/OrderManagementSystem)|Several projects covering almost entirely ```Java Core```, as well as ```Spring``` and ```Maven```| Java, JDBC, Spring, Maven |
+|[OrderManagement](https://github.com/SpiderChung/OrderManagementSystem)|Two MicroServices: OrderNumberGenerator and | Java, Spring Data, Spring Boot, Swagger, Liquibase, Maven |
 
-
----
 
 
 ---
