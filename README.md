@@ -58,14 +58,21 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" height="40"/>
-          
-  
-          
-          
-          
-          
-  
+        
 </div>
+
+---
+<h3 align="center">
+  :ballot_box_with_check: Pet projects
+</h3>
+
+| Project name      | Description                | Tools   | Subject |
+|:------------------:|:-------------------------------------:|:------------------------:|:---------:|
+|[OrderManagement](https://github.com/SpiderChung/OrderManagementSystem)|Several projects covering almost entirely ```Java Core```, as well as ```Spring``` and ```Maven```| Java, JDBC, Spring, Maven |
+
+
+---
+
 
 ---
 <h3 align="center">
